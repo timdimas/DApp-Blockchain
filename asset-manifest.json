@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DApp-Blockchain/static/css/main.6ee98122.css",
+    "main.js": "/DApp-Blockchain/static/js/main.347b0607.js",
+    "static/media/Hyundai.jpg": "/DApp-Blockchain/static/media/Hyundai.59e5349889603fe94cd4.jpg",
+    "static/media/phone.jpg": "/DApp-Blockchain/static/media/phone.9dfa1bd2d1030ccd1c9f.jpg",
+    "static/media/laptop.jpg": "/DApp-Blockchain/static/media/laptop.cf42dae899af5874b0b0.jpg",
+    "index.html": "/DApp-Blockchain/index.html",
+    "main.6ee98122.css.map": "/DApp-Blockchain/static/css/main.6ee98122.css.map",
+    "main.347b0607.js.map": "/DApp-Blockchain/static/js/main.347b0607.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ee98122.css",
+    "static/js/main.347b0607.js"
+  ]
+}
